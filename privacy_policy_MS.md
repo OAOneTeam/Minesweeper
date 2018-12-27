@@ -19,7 +19,7 @@ Link to privacy policy of third party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Firebase Analytics](https://firebase.google.com/policies/analytics)
-*   [Facebook](https://www.facebook.com/about/privacy)
+*   [Fabric](https://docs.fabric.io/android/fabric/data-privacy.html)
 
 **Log Data**
 
